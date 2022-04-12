@@ -10,7 +10,7 @@ I have considered this on the assumption that the structure is consistent enough
 ### Data chart
 
     ┌─────────────┐                       ┌─────────────┐
-    │    USERS    ├───────────────────────┤     BIDS    │
+    │    USERS    ├───────────────────────┤     BIDS    │
     │             │1                  0..N│             │
     └─────────────┘                       └──────┬──────┘
                                             0..N │
