@@ -1,8 +1,6 @@
 # Auction bid tracker
 
-Thank you for giving me the opportunity to participate in the selection process, it has been a very enjoyable test because of the concurrency handling.
-
-## Decisions
+## Implementation decisions
 
 I have decided to run this task without doing all possible CRUD methods, in order not to obfuscate the code.
 I have considered this on the assumption that the structure is consistent enough to get an idea of how they would have been implemented. I hope you like it.
