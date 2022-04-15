@@ -1,5 +1,7 @@
 # Auction bid tracker
 
+This project consists of an authentication and authorisation service, as well as a bidding system based on users and items. 
+
 ## Implementation decisions
 
 I have decided to run this task without doing all possible CRUD methods, in order not to obfuscate the code.
